@@ -12,4 +12,4 @@ Step 5) To build the project: npm run build:ssr
 
 The project on Firebase : https://spacex-262ca.web.app/
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ashish00743/SPACE-X/blob/master/performance-1.PNG?raw=true)
